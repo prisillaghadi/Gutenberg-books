@@ -22,8 +22,8 @@ Opens books in browser (HTML , PDF , TXT priority)
 
 # Run locally
 ```sh
-- npm install
-- npm run dev
+npm install
+npm run dev
 ```
 # API Notes
 
