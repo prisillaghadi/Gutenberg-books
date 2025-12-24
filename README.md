@@ -21,12 +21,10 @@ Shows only books with cover images
 Opens books in browser (HTML , PDF , TXT priority)
 
 # Run locally
-
-- git clone
-- cd guten
+```sh
 - npm install
 - npm run dev
-
+```
 # API Notes
 
 Data source: http://skunkworks.ignitesol.com:8000/books
